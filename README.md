@@ -1,1 +1,1 @@
-# spark-transformations-in-scala
+# spark-operations-in-scala
